@@ -1,5 +1,5 @@
-﻿# Тестовое задание в MindBox
+# Тестовое задание в MindBox
 
-## Task 1 : EeeeGeometry
+### Task 1 : EeeeGeometry
 
-## Task 2 : Sql
+### Task 2 : Sql
