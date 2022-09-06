@@ -1,0 +1,1 @@
+![database_scheme](database_scheme.png "Database Scheme")
